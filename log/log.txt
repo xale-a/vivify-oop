@@ -1,0 +1,80 @@
+log:
+Macevalac je pokupio oruzje Mac
+Macevalac je pokupio oruzje Mac
+Macevalac je pokupio oruzje Mac
+Macevalac je pokupio oruzje Koplje
+Carobnjak je pokupio oruzje Carolija
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Pauk je napao Pauk pomocu Udara
+Macevalac je napao Pauk pomocu Koplje
+Pauk je napao Pauk pomocu Udara
+Macevalac je pobedio u duelu sa Pauk
+Zmaj je napao Zmaj pomocu Bljuje Vatru
+Zmaj je napao Zmaj pomocu Bljuje Vatru
+Zmaj je napao Zmaj pomocu Bljuje Vatru
+Zmaj je napao Zmaj pomocu Bljuje Vatru
+Carobnjak je napao Zmaj pomocu Carolija
+Zmaj je napao Zmaj pomocu Udara
+Carobnjak je napao Zmaj pomocu Carolija
+Zmaj je napao Zmaj pomocu Udara
+Zmaj je napao Zmaj pomocu Bljuje Vatru
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Zmaj je napao Zmaj pomocu Udara
+Carobnjak je napao Zmaj pomocu Carolija
+Zmaj je napao Zmaj pomocu Bljuje Vatru
+Zmaj je napao Zmaj pomocu Udara
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Carobnjak je napao Zmaj pomocu Carolija
+Zmaj je napao Zmaj pomocu Udara
+Carobnjak je napao Zmaj pomocu Carolija
+Zmaj je napao Zmaj pomocu Udara
+Carobnjak je pobedio u duelu sa Zmaj
